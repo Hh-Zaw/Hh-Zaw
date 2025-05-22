@@ -1,4 +1,4 @@
-# Hi, I'm Hein Htet Zaw 👋
+# Hi, I'm Hein 👋
 
 ## 🔐 Cybersecurity Student | Future Security Analyst
 
