@@ -1,8 +1,8 @@
 # Hi, I'm Hein 👋
 
-## 🔐 Cybersecurity Student | Future Security Analyst
+## 🔐 Cybersecurity Analyst
 
-I'm a Computer Science student at Massey University (Top 10%) with a passion for cybersecurity. Currently building security tools and preparing for a career in security operations.
+I'm a Computer Science student at Auckland University of Technology (AUT) studying Master of Cybersecurity & Digital Forensics. Currently building security tools and preparing for a career in security operations.
 
 ### 🎯 What I'm Working On
 - 🔍 Building network security tools with Python
